@@ -1,0 +1,7 @@
+1. to invoke a funtion immediately
+
+2.to avoid the pollution of global scope
+
+3.how IIFE is written
+()();
+(write function definatiomn here)(this is for execution);
