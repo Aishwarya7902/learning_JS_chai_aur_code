@@ -53,6 +53,6 @@ function addone(num){ //this will be hoisted
 
 
 addTwo(5)
-const addTwo = function(num){ // this will not be hoisted
+const addTwo = function(num){ // this will not be hoisted....as function expressions are never hoisted
     return num + 2
 }
