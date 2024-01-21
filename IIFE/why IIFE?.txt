@@ -4,4 +4,4 @@
 
 3.how IIFE is written
 ()();
-(write function definatiomn here)(this is for execution);
+(write function defination here)(this is for execution);
