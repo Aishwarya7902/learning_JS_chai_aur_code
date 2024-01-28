@@ -1,0 +1,15 @@
+1. both are key value pair.........we can do the same thing with objects..then why maps????????🤔💭
+
+coz......
+
+1. maps remember order of insertion of keys.
+
+2. In maps key can be anything ...be it object/function/primitive values...whereas in objects....keys can be only string or symbol.
+
+3.Maps do not store duplicates.
+
+4.For of loop in map returns a 2 membered array of [key,value] for each iteration. [for of can't be used with objects]
+
+5.maps are iteratable....objects are not under normal condition.
+
+ 
