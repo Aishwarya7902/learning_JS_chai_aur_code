@@ -4,6 +4,8 @@
 3.map ✅
 4.objects ❌
 
+Note :❤️ For of Loop gives direct value.
+
 
 */
 
