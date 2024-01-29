@@ -1,0 +1,5 @@
+1.  filter returns values based on certain condtion  ..... whereas ...Map iteraters over each value and modifies it based on the function
+
+2. Both return a new array
+
+3. Filter returns array of length less than or equal to original...whereas Map has same lenth as original array.
