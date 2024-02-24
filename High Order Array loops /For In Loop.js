@@ -7,6 +7,7 @@ Maps ❌
 /* 🌤️
 
 The for...in loop in JavaScript is generally used to iterate over the enumerable properties of an object.
+An enumerable property is one that can be iterated over using a loop, like for...in. 
 While it may seem like you can use it with a Map object, it's not the recommended approach due to some key differences.
 
 The issue is that for...in iterates over all enumerable properties of an object, including those inherited from the prototype chain.
