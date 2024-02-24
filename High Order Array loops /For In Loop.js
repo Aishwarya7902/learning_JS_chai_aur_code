@@ -4,6 +4,17 @@ Objects  ✅
 Arrays ✅
 Maps ❌
 
+/* 🌤️
+
+The for...in loop in JavaScript is generally used to iterate over the enumerable properties of an object.
+While it may seem like you can use it with a Map object, it's not the recommended approach due to some key differences.
+
+The issue is that for...in iterates over all enumerable properties of an object, including those inherited from the prototype chain.
+Map objects, on the other hand, are designed to store key-value pairs, and their keys can be of any data type, including objects.
+This can lead to unexpected behavior when using for...in with Map objects.
+
+*/
+
 Note :❤️ For In Loop gives key in case of object and index in case of arrays.
 */
 
